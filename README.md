@@ -1,7 +1,16 @@
 ## Hi there 👋
 
+I like to code and learn new things!
+My biggest weakness is inability to make stuff look good ( _except some graphics for some damn reason_ >:| )
+<br> I'm currently learning C++ on [learncpp.com](learncpp.com)!
+
+- ⚡ Fun fact: Hold <kbd>CTRL</kbd> and press <kbd>DEL</kbd> or <kbd>BCKSPC</kbd> to delete full words!
+
+### I have created:
+* **RecORDER [Python] [OBS]**
+  * Organizes recordings/split recordings/replays/screenshots based on hooks of Window Capture/ Game Capture sources
 <!--
-**oxypatic/oxypatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**padiix/padiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
